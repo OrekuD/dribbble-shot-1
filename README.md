@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Daily challenge 01
 
-The intention of these daily challenges is to sharpen my skills as a frontend developer.
+The intention of these daily challenges is to improve my skills as a frontend developer.
 
 Insipration is a shot by [Tran Mau Tri Tam](https://dribbble.com/tranmautritam), on Dribbble.
 
