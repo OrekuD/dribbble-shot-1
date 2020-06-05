@@ -10,4 +10,4 @@ Insipration is a shot by [Tran Mau Tri Tam](https://dribbble.com/tranmautritam),
 
 
 Final App Screenshot
-![ScreenShot](https://github.com/OrekuD/dribbble-shot-1/blob/master/src/images/Final%20shot.png?raw=true)
+![ScreenShot](https://github.com/OrekuD/dribbble-shot-1/blob/master/src/images/final%20screenshot.png?raw=true)
