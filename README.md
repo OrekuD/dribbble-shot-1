@@ -2,9 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Daily challenge 01
 
-<<<<<<< HEAD
-
-=======
 The intention of these daily challenges is to improve my skills as a frontend developer.
 
 Insipration is a shot by [Tran Mau Tri Tam](https://dribbble.com/tranmautritam), on Dribbble.
@@ -14,4 +11,3 @@ Insipration is a shot by [Tran Mau Tri Tam](https://dribbble.com/tranmautritam),
 
 
 
->>>>>>> bc5a662eeb1d06a22b8ba3e0f4c22a1ee8347600
