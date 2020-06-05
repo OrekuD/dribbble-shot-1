@@ -9,5 +9,5 @@ Insipration is a shot by [Tran Mau Tri Tam](https://dribbble.com/tranmautritam),
 ![Design Insipration](https://cdn.dribbble.com/users/427857/screenshots/11826253/media/49941edd7d748ffdbe9d6796aefc1b83.jpg)
 
 
-
-
+Final App Screenshot
+![ScreenShot](https://github.com/OrekuD/dribbble-shot-1/blob/master/src/images/Final%20shot.png?raw=true)
